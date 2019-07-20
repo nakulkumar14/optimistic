@@ -1,0 +1,7 @@
+select * from person;
+
+insert into person values(1,'salman','ali',12000, 1);
+insert into person values(2,'srk','khan',15000, 1);
+insert into person values(3,'amir','khan',14000, 1);
+insert into person values(4,'atif','aslam',14500, 1);
+insert into person values(5,'sonu','nigam',13000, 1);
